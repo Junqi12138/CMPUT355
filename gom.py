@@ -570,9 +570,6 @@ Part 7: the game
 '''
 
 play = True
-method_1 = False
-method_2 = False
-method_3 = False
 
 
 while play:
